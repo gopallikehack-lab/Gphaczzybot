@@ -1,6 +1,6 @@
 <?php
 // ============= BOT CONFIGURATION =============
-define('BOT_TOKEN', '8972741594:AAHZB1BEYrHqcHPrER1PYMQ6WkAOs-DEJIQ');
+define('BOT_TOKEN', '8972741594:AAESftkJp-DFaabRQZrk34zxMsUQyMujT2E');
 define('ADMIN_ID', 8381916527);
 
 // API Endpoints for Hack Tools
