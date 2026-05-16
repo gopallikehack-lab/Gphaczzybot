@@ -1,0 +1,12 @@
+{
+  "name": "gphaczzybot",
+  "version": "1.0.0",
+  "description": "Telegram Bot with Hack Tools",
+  "main": "api/index.php",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "vercel-php": "^0.6.0"
+  }
+}
